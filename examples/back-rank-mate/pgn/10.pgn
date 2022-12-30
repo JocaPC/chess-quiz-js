@@ -1,0 +1,21 @@
+[Event "Mat u poslednjem redu.: Mat u poslednjem redu (11)"]
+[Site "https://lichess.org/study/khD18c4S/lgJ1nrxP"]
+[Result "*"]
+[UTCDate "2021.10.16"]
+[UTCTime "23:08:20"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "6k1/5pbp/5np1/2p5/4P3/4BN1P/1r3PP1/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Kralj ima otvoreni poslednji red u fijanketo rokadi, ali i skakača koji će sprečiti mat. Napadni kralja i ukloni skakača. }
+1. Rd8+ Bf8 { Koga sad napadaš? } 2. e5 (2. Bh6 { SKAKAČ BRANI LOVCA NA F8. AKO BELI TOP UZME SKAKAČA, CRNI LOVAC ĆE UZETI LOVCA NA H6. AKO LOVAC UZME LOVCA, SKAKAČ ĆE GA UZETI.
+MATA NEMA.
+OTERAJ SKAKAČA } { [%cal Gf6d7,Gd7f8,Gf8h6] })  (2. Bxc5 { SKAKAČ BRANI LOVCA NA F8. AKO BELI TOP UZME SKAKAČA, CRNI LOVAC ĆE UZETI LOVCA NA C5. AKO LOVAC UZME LOVCA, SKAKAČ ĆE GA UZETI.
+MATA NEMA.
+OTERAJ SKAKAČA } { [%csl Gd7][%cal Gf6d7,Gd7f8] }) 2... Nh5 { Sada treba napasti vezanog lovca - ali sa koje strane? } 3. Bxc5 { [%csl Gf8][%cal Gc5f8,Gd8g8] } (3. Bh6 { SKAKAČ PREKIDA VEZIVANJE.
+NE MOŽEŠ OVAKO DA NAPADNEŠ LOVCA. } { [%csl Gg7][%cal Gh5g7] }) 3... Nf4 { Crni skakač preti da preko E6 napadne lovca i topa. Šta sad igraš? } { [%cal Gf4e6] } 4. Rxf8+ (4. Bxf8 Ne6 { [%cal Ge6d8,Ge6f8,Gb2b1] } (4... Rb1+ { CRNI ĆE PRVO SKLONITI TOPA SA CRNOG POLJA UZ ŠAH A ONDA ĆE SKAKAČ NAPASTI LOVCA I TOPA. AKO SE LOVAC POMERI UZEĆE TOPA. } { [%cal Gf4e6,Ge6f8,Ge6d8] })) 4... Kg7 { Ovde nema mata ali posle svih odbrana beli ostaje sa lovcem više. } *
+
+

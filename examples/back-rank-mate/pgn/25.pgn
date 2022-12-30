@@ -1,0 +1,17 @@
+[Event "Mat u poslednjem redu.: Odvlačenje (1)"]
+[Site "https://lichess.org/study/khD18c4S/fin3Ri9M"]
+[Result "*"]
+[UTCDate "2021.10.16"]
+[UTCTime "14:20:25"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "1r4k1/1b3ppp/8/8/6q1/1Q3N2/5PPP/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Kralj je u ravnoj rokadi, ali top štiti mat u poslednjem redu.
+Odvuci ovog topa iz poslednjeg reda. } { [%csl Gf7,Gg7,Gh7] }
+1. Qxb7 Rxb7 { Sada možeš da matiraš kralja. } 2. Rd8# *
+
+

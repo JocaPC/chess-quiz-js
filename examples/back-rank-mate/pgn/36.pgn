@@ -1,0 +1,16 @@
+[Event "Mat u poslednjem redu.: Odvlačenje (12)"]
+[Site "https://lichess.org/study/khD18c4S/yo8izgQD"]
+[Result "*"]
+[UTCDate "2021.10.19"]
+[UTCTime "12:59:23"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "6k1/4qppp/8/3Q4/8/2pB3P/1nP2PP1/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Beli napada po poslednjem redu. }
+1. Qa8+ (1. Qd8+ Qxd8 { IZGUBIĆEŠ DAMU! }) 1... Qf8 { Sada beli dobija damu. } 2. Bxh7+ Kxh7 { Kralj je morao da se pomeri u H liniju i ostavi nebranjenu damu. } 3. Qxf8 *
+
+

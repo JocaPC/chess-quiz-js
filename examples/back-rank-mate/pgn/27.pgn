@@ -1,0 +1,17 @@
+[Event "Mat u poslednjem redu.: Odvlačenje (3)"]
+[Site "https://lichess.org/study/khD18c4S/PcupMtXm"]
+[Result "*"]
+[UTCDate "2021.10.16"]
+[UTCTime "15:19:55"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "2b1r1k1/Q4pp1/p6p/Pp6/1Pq5/8/2B2PPP/3R2K1 w - - 2 2"]
+[SetUp "1"]
+
+{ Lovac je zatvorio prolaz crnom kralju.
+Kako odvući topa da bi beli top dao mat? } { [%csl Gh7] }
+2. Qe7 Rxe7 { Sad beli top matira kralja. } 3. Rd8+ { Kada potoji prilika za mat, beli može da ponudi i damu kako bi oslobidio poslednji red. } *
+
+

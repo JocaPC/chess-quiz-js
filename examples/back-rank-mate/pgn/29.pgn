@@ -1,0 +1,16 @@
+[Event "Mat u poslednjem redu.: Odvlačenje (5)"]
+[Site "https://lichess.org/study/khD18c4S/aEeNoooC"]
+[Result "*"]
+[UTCDate "2021.10.16"]
+[UTCTime "17:30:36"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "3r2k1/2Rn1p1p/2p5/2Pp1N2/1P6/4R2P/r5PK/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Šta belog sprečava da matira kralja? }
+1. Rxd7 Rxd7 { Sada beli matira kralja. } 2. Re8# *
+
+

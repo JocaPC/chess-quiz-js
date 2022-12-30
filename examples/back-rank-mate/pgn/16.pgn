@@ -1,0 +1,16 @@
+[Event "Mat u poslednjem redu.: Mat u poslednjem redu (17)"]
+[Site "https://lichess.org/study/khD18c4S/pBxyP4NX"]
+[Result "*"]
+[UTCDate "2021.10.17"]
+[UTCTime "09:36:49"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "r1bqr1k1/pp3pb1/3ppnp1/3N4/3BP1P1/5P2/PPP4Q/1K1R1B1R w - - 1 4"]
+[SetUp "1"]
+
+{ Beli može da matira crnog kralja ako otvori dijagonalu lovcu. }
+4. Nxf6+ (4. Qh8+ Bxh8 { BELI GUBI DAMU })  (4. Bxf6 { LOVAC TI JE POTREBAN DA MATIRA KRALJA. }) 4... Bxf6 { Mat u dva poteza. } 5. Qh8+ (5. Bxf6 Qxf6 { DAMA ŠTITI H8. NEMA MATA } { [%cal Gf6h8] }) 5... Bxh8 6. Rxh8# *
+
+

@@ -1,0 +1,16 @@
+[Event "Mat u poslednjem redu.: Mat u poslednjem redu (16)"]
+[Site "https://lichess.org/study/khD18c4S/dXsNl0eV"]
+[Result "*"]
+[UTCDate "2021.10.17"]
+[UTCTime "00:45:34"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "2rn1q1k/p4p2/1p1pbN1p/4p3/2P1P3/1P3PQP/P7/6RK w - - 2 7"]
+[SetUp "1"]
+
+{ Beli daje mat u dva poteza. }
+7. Qg8+ Qxg8 { Sad amatira kralja. } 8. Rxg8# { Kada je skakač na F6 samo je potrebno postaviti topa pored kralja - Arapski mat. } { [%csl Gf6] } *
+
+

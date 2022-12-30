@@ -1,0 +1,16 @@
+[Event "Mat u poslednjem redu.: Mat u poslednjem redu (19)"]
+[Site "https://lichess.org/study/khD18c4S/M7XEwlOm"]
+[Result "*"]
+[UTCDate "2021.10.22"]
+[UTCTime "18:58:09"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "r1b1k2N/ppppq1pp/2n5/2b1p3/2B1n3/8/PPPP1PPP/RNBQK2R w KQq - 0 1"]
+[SetUp "1"]
+
+{ Dijagonala ka kralju je otvorena - napadni ga damom. } { [%csl Ge7,Gf7,Gg7,Gd7,Gc7] }
+1. Qh5+ { [%csl Ge7,Gf7,Gg7] } 1... Kf8 { Kako da otvoriš put dami za mat na poslednjem redu? } { [%csl Gf7,Ge7,Gg7][%cal Gh5h8] } 2. Ng6+ hxg6 { Matiraj kralja. } 3. Qh8# { [%csl Ge7,Gf7,Gg7][%cal Gh8f8] } *
+
+

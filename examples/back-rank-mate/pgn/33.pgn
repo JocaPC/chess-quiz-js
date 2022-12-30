@@ -1,0 +1,16 @@
+[Event "Mat u poslednjem redu.: Odvlačenje (9)"]
+[Site "https://lichess.org/study/khD18c4S/iUz0wxEh"]
+[Result "*"]
+[UTCDate "2021.10.17"]
+[UTCTime "00:47:52"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "2rn1q1k/p4p2/1p1pbN1p/4p3/2P1P3/1P3P1P/P2Q4/6RK w - - 2 7"]
+[SetUp "1"]
+
+{ Beli daje mat u dva poteza. }
+7. Qxh6+ (7. Rg8+ Qxg8 { BELI DOBIJA DAMU ZA TOPA I SKAKAČA, ALI TO NIJE MAT. } { [%cal Gf6g8] }) 7... Qxh6 { Sada matira crnog kralja. } 8. Rg8# *
+
+

@@ -1,0 +1,16 @@
+[Event "Mat u poslednjem redu.: Odvlačenje (10)"]
+[Site "https://lichess.org/study/khD18c4S/bLXCb38t"]
+[Result "*"]
+[UTCDate "2021.10.17"]
+[UTCTime "09:51:37"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "6k1/2rq1ppp/8/p7/PpQ5/1P6/5PPP/4R1K1 w - - 1 4"]
+[SetUp "1"]
+
+{ Beli daje mat u dva poteza. }
+4. Qxc7 Qxc7 { Sad amatira kralja. } 5. Re8# *
+
+

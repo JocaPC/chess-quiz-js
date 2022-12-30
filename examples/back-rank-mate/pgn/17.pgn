@@ -1,0 +1,16 @@
+[Event "Mat u poslednjem redu.: Mat u poslednjem redu (18)"]
+[Site "https://lichess.org/study/khD18c4S/2S8WX6f7"]
+[Result "*"]
+[UTCDate "2021.10.16"]
+[UTCTime "17:17:48"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "2r3k1/5pbp/p1p1p1p1/PpP5/1P2P3/2q1B2P/3Q1PP1/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Beli može da matira na poslednjem redu kralja sa fijanketiranim lovcem ako ima lovca koji napada H6. } { [%csl Gf7,Gg7,Gh7] }
+1. Qd8+ Rxd8 { Nastavi sa šahom po poslednjem redu. } 2. Rxd8+ Bf8 { Nastavi napad na vezanog lovca. } 3. Bh6 Qa1+ { CRNI MOŽE DA SE SPASE SAMO AKO DAJE ŠAHOVE KRALJU ILI DOBIJE TOPA ILI LOVCA FORKOM. } 4. Kh2 Qe5+ { Crni može da se spase samo ako daje večni šah ili ako bar menja damu za topa. Beli treba da spreči kasnije šahove. } 5. g3 { Crni više ne može da daje šahove. Jedino što može da uradi da spreči mat je da žrtvuje damu za lovca, ali tad ostaje sa lovcem protiv topa. } { [%cal Ge5g7] } (5. f4 { I ovo je dobar potez, ali blokiraj šah g pešakom. }) 5... Qf6 { Sada možeš da matiraš crnog kralja. } { [%cal Gf6d8] } 6. Rxf8# { [%csl Gf8][%cal Gh6f8] } *
+
+

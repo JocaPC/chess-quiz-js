@@ -1,0 +1,17 @@
+[Event "Mat u poslednjem redu.: Uništavanje čuvara (3)"]
+[Site "https://lichess.org/study/khD18c4S/8SvbhfFg"]
+[Result "*"]
+[UTCDate "2021.10.16"]
+[UTCTime "14:33:13"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "r2r2k1/2p2pp1/1p5p/2n5/2P5/1P2Q2P/1qB2PP1/3RR1K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Kralj je u rokadi gde beli lovac blokira izlaz, ali topovi štite mat u poslednjem redu.
+Ukloni jednog čuvara. } { [%csl Gh7] }
+1. Rxd8+ Rxd8 { Sada možeš da matiraš kralja. } 2. Qe8+ Rxe8 { I konačni mat. } 3. Rxe8# { Kada je kralju zatvorena linija na retposlednjem redu, možeš da daš bilo koje figure samo da dođeš do mata. } { [%csl Gh7] } *
+
+

@@ -1,0 +1,17 @@
+[Event "Mat u poslednjem redu.: Odvlačenje (15)"]
+[Site "https://lichess.org/study/khD18c4S/TaExpPKK"]
+[Result "*"]
+[UTCDate "2021.10.19"]
+[UTCTime "13:15:40"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "3r2k1/1R1n1pp1/7p/1pq5/8/2PB3P/Q4PP1/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Crni ima običnu rokadu sa izlazom kog blokira lovca.
+Šta belom smeta da napadne po poslednjem redu? } { [%csl Gd3,Gh7] }
+1. Rxd7 Rxd7 { Sada napadni po poslednjem redu. } 2. Qa8+ Qf8 { Beli dobija damu. } 3. Bh7+ Kxh7 { I sad uzima nebranjenu damu. } 4. Qxf8 *
+
+

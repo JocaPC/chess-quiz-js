@@ -1,0 +1,16 @@
+[Event "Mat u poslednjem redu.: Odvlačenje (7)"]
+[Site "https://lichess.org/study/khD18c4S/PDBS9dEG"]
+[Result "*"]
+[UTCDate "2022.12.29"]
+[UTCTime "15:38:10"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "3r3k/p4p1p/1pnpbN2/q3p3/P1P1P3/1P1Q1P2/4B2P/6RK w - - 0 9"]
+[SetUp "1"]
+
+{ Beli dobija nešto. }
+9. Qxd6 Rxd6 { Sada matira kralja. } 10. Rg8# *
+
+

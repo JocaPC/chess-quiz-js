@@ -1,0 +1,17 @@
+[Event "Mat u poslednjem redu.: Mat u poslednjem redu (2)"]
+[Site "https://lichess.org/study/khD18c4S/MkCXgbeg"]
+[Result "*"]
+[UTCDate "2021.10.16"]
+[UTCTime "14:10:49"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "6k1/4npp1/7p/p7/P3r3/1B5P/5PP1/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Crni kralj ima rokadu sa izlazom.
+Zatvori taj izlaz. } { [%cal Gg8h7] }
+1. Bc2 Rb4 { Sada matiraj kraja pošto ne može da pobegne. } 2. Rd8# *
+
+

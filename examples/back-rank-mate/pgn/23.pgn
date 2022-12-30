@@ -1,0 +1,18 @@
+[Event "Mat u poslednjem redu.: Uništavanje čuvara (5)"]
+[Site "https://lichess.org/study/khD18c4S/AgjI1uOw"]
+[Result "*"]
+[UTCDate "2022.12.29"]
+[UTCTime "15:42:51"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "r5k1/2n2pbp/p5p1/1p6/1P6/P3BQ1P/1q3PP1/1N1R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Beli može da matira na poslednjem redu kralja sa fijanketiranim lovcem ako ima lovca koji napada H6.
+
+Međutim, top čuva poslednji red. }
+1. Qxa8+ Nxa8 2. Rd8+ Bf8 3. Bh6 f5 4. Rxf8# *
+
+

@@ -1,0 +1,17 @@
+[Event "Mat u poslednjem redu.: Uništavanje čuvara (2)"]
+[Site "https://lichess.org/study/khD18c4S/6Kwcbw6a"]
+[Result "*"]
+[UTCDate "2021.10.16"]
+[UTCTime "14:28:05"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "r2r2k1/2p2ppp/1p4q1/p7/P1P5/1P2RQ1P/5PP1/4R1K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Kralj je u ravnoj rokadi, ali topovi štite mat u poslednjem redu.
+Ukloni jednog topa. }
+1. Qxa8 Rxa8 { Sada matiraj kralja. } 2. Re8+ Rxe8 { I konačni mat. } 3. Rxe8# { Kada vidiš mat, isplati se dati i kraljicu za figure koje brane mat. } { [%cal Ge8g8] } *
+
+

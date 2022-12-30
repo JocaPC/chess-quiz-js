@@ -1,0 +1,17 @@
+[Event "Mat u poslednjem redu.: Mat u poslednjem redu (14)"]
+[Site "https://lichess.org/study/khD18c4S/HIBfW6ae"]
+[Result "*"]
+[UTCDate "2021.10.17"]
+[UTCTime "10:09:28"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "3r2k1/1b3pp1/1q6/1p4N1/1Pp5/2P4P/4QPP1/4R1K1 w - - 0 6"]
+[SetUp "1"]
+
+{ Skakač sprečava kralja da izađe iz rokade.
+Kako beli matira kralja? } { [%csl Gh7][%cal Gg5h7] }
+6. Qe8+ Rxe8 { Sada matiraj kralja. } 7. Rxe8# *
+
+

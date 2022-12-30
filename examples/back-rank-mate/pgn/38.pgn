@@ -1,0 +1,16 @@
+[Event "Mat u poslednjem redu.: Odvlačenje (14)"]
+[Site "https://lichess.org/study/khD18c4S/n2jzpzer"]
+[Result "*"]
+[UTCDate "2021.10.19"]
+[UTCTime "13:05:07"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "6k1/3p1ppp/4p3/3nR2B/1q6/1PpP3P/r1P2PP1/4Q1K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Beli treba da napadne na poslednjem redu. }
+1. Rxd5 exd5 { Sada matiraj na poslednjem redu. } 2. Qe8+ Qf8 { Kako da odvučeš kralja? } 3. Bxf7+ Kh8 { Mat } 4. Qxf8# *
+
+

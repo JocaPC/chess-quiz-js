@@ -1,0 +1,16 @@
+[Event "Mat u poslednjem redu.: Uništavanje čuvara (6)"]
+[Site "https://lichess.org/study/khD18c4S/GpwGFZEA"]
+[Result "*"]
+[UTCDate "2021.10.17"]
+[UTCTime "00:38:50"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "2r4k/p3qp1p/Qp1pbN2/4p3/2P1P3/1P3P2/P6P/6RK w - - 2 7"]
+[SetUp "1"]
+
+{ Kako beli može da matira crnog kralja? }
+7. Qxc8+ (7. Rg8+ Rxg8 { POSLEDNJI RED JE BRANJEN. }) 7... Bxc8 { Sad matiraj kralja. } 8. Rg8# *
+
+

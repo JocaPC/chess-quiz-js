@@ -1,0 +1,16 @@
+[Event "Mat u poslednjem redu.: Odvlačenje (8)"]
+[Site "https://lichess.org/study/khD18c4S/XJKj7rz7"]
+[Result "*"]
+[UTCDate "2021.10.19"]
+[UTCTime "11:14:41"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "6k1/5ppp/3q4/2n5/1pB1Q3/1P5P/5PP1/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Dama može da napadne poslednji red iako će crna dama zaštititi kralja. } { [%csl Gf8] }
+1. Qe8+ Qf8 { Sad možeš da uzmeš pešaka pošto ej dama vezana a kralj ne može da ga uzme. } 2. Bxf7+ Kh8 { Sad matiraj kralja. } 3. Qxf8# { Lovac na pretposlednjoj liniji može da odvuče kralja koji blokira figuru koja štiti mat. } { [%csl Gf7] } *
+
+

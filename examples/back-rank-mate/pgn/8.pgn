@@ -1,0 +1,17 @@
+[Event "Mat u poslednjem redu.: Mat u poslednjem redu (10)"]
+[Site "https://lichess.org/study/khD18c4S/entvILqO"]
+[Result "*"]
+[UTCDate "2021.11.04"]
+[UTCTime "11:58:14"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "6k1/5p2/2p3pp/1pP5/1P2n3/2B4P/r4PP1/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Crni je pomerio pešake iz rokade, ali lovac kontroliše glavnu dijagonalu ka kralju.
+Kreni u poslednji red. }
+1. Rd8+ Kh7 { Sada mataraj kralja. } 2. Rh8# { Top može lako da matira kralja ako lovac drži glavnu dijagonalu. } { [%cal Gc3h8,Gd8h8] } *
+
+

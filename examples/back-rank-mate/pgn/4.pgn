@@ -1,0 +1,16 @@
+[Event "Mat u poslednjem redu.: Mat u poslednjem redu (5)"]
+[Site "https://lichess.org/study/khD18c4S/D4iZIQmF"]
+[Result "*"]
+[UTCDate "2021.10.16"]
+[UTCTime "13:41:14"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "6k1/5pbp/6p1/p7/Pr6/4B2P/5PP1/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Beli može da matira na poslednjem redu i kraja sa fijanketiranim lovcem ako ima lovca koji ga napada. } { [%csl Ge3][%cal Ge3h6] }
+1. Rd8+ Bf8 { Sad napadni vezanog lovca. } 2. Bh6 Rb1+ { [%csl Gh2][%cal Gb1h1] } 3. Kh2 Kh8 4. Rxf8# *
+
+

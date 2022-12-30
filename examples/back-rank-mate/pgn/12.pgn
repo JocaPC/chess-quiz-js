@@ -1,0 +1,16 @@
+[Event "Mat u poslednjem redu.: Mat u poslednjem redu (13)"]
+[Site "https://lichess.org/study/khD18c4S/dl76iHwr"]
+[Result "*"]
+[UTCDate "2021.10.17"]
+[UTCTime "00:22:37"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "r1b3k1/ppqp1pb1/4pnp1/6Q1/3BP3/2N2P2/PPP1N1P1/2KR3R w - - 1 4"]
+[SetUp "1"]
+
+{ Beli može da matira crnog kralja ako otvori dijagonalu ka H8. }
+4. Qxf6 (4. Bxf6 { Dobro je, ali ako ga uzmeš sa damom pretiš matom na G7. } { [%csl Gg7] }) 4... Bxf6 { Sada blokiraj kralju pretposlenji red. } 5. Bxf6 { [%csl Gg7,Gf7,Ge7,Gh8] } 5... Qf4+ { Crna dama daje šah i hoce da uzme lovca. Šta da igraš? } { [%cal Gf4f6,Gf4c1] } 6. Nxf4 { VAŽNO JE DA PROVERIŠ DA SU OVAKVI ŠAHOVI POKRIVENI INAČE ĆEŠ OSTATI SA DAMOM MANJE DA JE DAMA USPELA DA UZME LOVCA NA F6. } 6... Kf8 { Matiraj kralja. } 7. Rh8# *
+
+

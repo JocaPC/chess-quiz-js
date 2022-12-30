@@ -1,0 +1,17 @@
+[Event "Mat u poslednjem redu.: Mat u poslednjem redu (1)"]
+[Site "https://lichess.org/study/khD18c4S/hhRXc1dU"]
+[Result "*"]
+[UTCDate "2021.10.16"]
+[UTCTime "13:43:14"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "6k1/5ppp/8/p7/P1r5/7P/5PP1/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Kralj ima ravnu rokadu i niko ne brani poslednji red.
+Matiraj ga. } { [%csl Gf7,Gg7,Gh7] }
+1. Rd8# { [%csl Gf7,Gg7,Gh7] } *
+
+

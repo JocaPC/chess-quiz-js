@@ -1,0 +1,16 @@
+[Event "Mat u poslednjem redu.: Odvlačenje (13)"]
+[Site "https://lichess.org/study/khD18c4S/PDQcjOiA"]
+[Result "*"]
+[UTCDate "2021.10.17"]
+[UTCTime "00:56:33"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "6k1/1q2r2p/6pP/2p2pN1/1pP3n1/1P6/5PP1/Q3R1K1 w - - 1 4"]
+[SetUp "1"]
+
+{ Beli daje mat u dva poteza. }
+4. Qg7+ Rxg7 { Sad beli matira kralja. } 5. Re8# *
+
+

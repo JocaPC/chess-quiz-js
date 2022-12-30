@@ -1,0 +1,16 @@
+[Event "Mat u poslednjem redu.: Mat u poslednjem redu (6)"]
+[Site "https://lichess.org/study/khD18c4S/OL9jIgWW"]
+[Result "*"]
+[UTCDate "2022.12.29"]
+[UTCTime "09:41:16"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/jocapc"]
+[FEN "6k1/B4pbp/6p1/6r1/8/7P/5PP1/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Pripremi mat }
+1. Be3 Ra5 { Kako koristiš poslednji red? } 2. Rd8+ Bf8 { Iskoristi vezanog lovca. } 3. Bh6 f6 { Matiraj kralja. } 4. Rxf8# *
+
+
