@@ -4,20 +4,25 @@ JavaScript component that enables solving puzzles in a browser. The puzzles must
 
 ## Usage
 
-1. Copy the content of a folder [src](src) in your project.
-2. Optionally, change the files in [src/js](src/js) forder to add newer versions of Checc.js, Chessboard.js, and JQuery libraries.
-3. Reference chessboard.css in your page and add your own .js file that wil initialize the board:
+1. Copy the content of a folder [src](src) in your project. This folder contains .css, .js and image files needed for the chessboard.
+2. Optionally, change the files in [src/js](src/js) folder to add newer versions of Chessjs and Chessboard.js files.
+3. Reference chessboard.css in your page and add your own .js file (for example index.js) that will initialize the board:
 ```
 <link rel="stylesheet" href="css/chessboard-1.0.0.min.css">
 <script type="module" src="./js/index.js"></script>
 
 <div id="myBoard" style="width: 400px"></div>
 ```
-Add a <div> element that will hold the chessboard.
+Here you need to add a `<div>` element that will hold the chessboard.
   
 4. Prepare your pgn files and place them in a folder. See this [example](examples/back-rank-mate/pgn).
-5. 
-  
+5. Initialize ChessQuiz
+5.1. Import ChessQuiz.js module
+5.2. Define our own updateInfo function that will update the page when something happens on the board.
+5.3. Create a chess quiz by providing the id of the `<div>` element that will contain the board, and a function that will react on events.
+5.4. Optionally register an event handler what will be canned if a questions cannot be loaded.
+5.5. Start a quiz by going to the next question.
+
 ```
 import ChessQuiz from './ChessQuiz.js';
 
@@ -26,10 +31,12 @@ function updateInfo(info){
 }
 
 var quiz = new ChessQuiz('myBoard', updateInfo);
-quiz.loadFromUri('pgn/{0}.pgn', 40);
+quiz.loadFromUri('pgn/{0}.pgn', 40); //-> Uri of pgns and total number of questions.
+
 // Optionally, registed a callback that will be called if an error happens:
 quiz.onError(function(questionId) { alert('Problem ('+ questionId + ') must be skipped!') })
   
 await quiz.gotoNextQuestion();
-  
 ```
+
+This is how it works: https://chessquiz.blob.core.windows.net/$web/back-rank-mate/index.html
