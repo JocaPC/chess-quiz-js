@@ -5,7 +5,7 @@ JavaScript component that enables solving puzzles in a browser. The puzzles must
 ## Usage
 
 1. Copy the content of a folder [src](src) in your project. This folder contains .css, .js and image files needed for the chessboard.
-2. Optionally, change the files in [src/js](src/js) folder to add newer versions of Chessjs and Chessboard.js files.
+2. Optionally, change the files in [src/js](src/js) folder to add newer versions of Chess.js and Chessboard.js files.
 3. Reference chessboard.css in your page and add your own .js file (for example index.js) that will initialize the board:
 ```
 <link rel="stylesheet" href="css/chessboard-1.0.0.min.css">
