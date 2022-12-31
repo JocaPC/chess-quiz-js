@@ -17,12 +17,13 @@ Here you need to add a `<div>` element that will hold the chessboard.
   
 4. Prepare your pgn files and place them in a folder. See this [example](examples/back-rank-mate/pgn).
 5. Initialize ChessQuiz
-5.1. Import ChessQuiz.js module
-5.2. Define our own updateInfo function that will update the page when something happens on the board.
-5.3. Create a chess quiz by providing the id of the `<div>` element that will contain the board, and a function that will react on events.
-5.4. Optionally register an event handler what will be canned if a questions cannot be loaded.
-5.5. Start a quiz by going to the next question.
+    - Import ChessQuiz.js module in your JavaScript file using `import ChessQuiz from './ChessQuiz.js'`
+    - Define our own `updateInfo()` function that will update the page when something happens on the board. See [example here](https://github.com/JocaPC/chess-quiz-js/blob/main/examples/back-rank-mate/js/index.js#L3)
+    - Create a chess quiz by providing the id of the `<div>` element that will contain the board, and a function that will react on the board events.
+    - Optionally, register an event handler what will be called if a questions cannot be loaded.
+    - Start a quiz by going to the next question using `await quiz.gotoNextQuestion();` call.
 
+Here is an example of usage:
 ```
 import ChessQuiz from './ChessQuiz.js';
 
